@@ -9,3 +9,4 @@ Here you can find tasks and solutions for the cousre 'Big Data Essentials' held 
 + [Lab 1](/Lab1.md)
 + [Lab 2](/Lab2.md)
 + [Lab 3](/Lab3.md)
++ [Reserch](/Individual_task.md)
